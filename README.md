@@ -2,8 +2,7 @@
 
 Infosec student at TARUMT
 
-
-I like to make fun programs that r fun to make
+I like to make fun programs that r fun to make, I can work with AWS, do vulnerability assessments, and I love graphic designing.
 
 languages and tools that I can work with
 <h3 align="left">Languages and Tools:</h3>
